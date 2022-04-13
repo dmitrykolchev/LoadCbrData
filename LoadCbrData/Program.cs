@@ -153,7 +153,7 @@ internal class Program
                         records.Clear();
                     }
                 }
-                if (ids.Count == 0)
+                else
                 {
                     break;
                 }
